@@ -4,11 +4,7 @@ Hi, I'm [Rifqi](http://rifqi.host/), a passionate self-taught Full Stack web dev
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@snapsh1t](https://twitter.com/snapsh1t);
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 **Languages and Tools:**  
 
@@ -38,6 +34,8 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/alfaridzi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iz2x3mdwxhafjqo9fs9ssx2j1&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  7,522 Karma Points           
@@ -50,7 +48,3 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alfaridzi&show_icons=true&theme=gotham" alt="rifqi" />
-
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iz2x3mdwxhafjqo9fs9ssx2j1&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
